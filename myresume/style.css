@@ -178,6 +178,10 @@ ul, li {
     padding-left: 0;
 }
 
+h3, h5{
+    margin-left: 21px;
+}
+
 h2{
     margin-left: 21px;
 }
