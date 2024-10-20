@@ -114,7 +114,7 @@ article::after{
     content: '';
     position: absolute;
     bottom: 100%;
-    left: 105px;
+    left: 106px;
     border-width: 20px;
     border-style: solid;
     border-color: transparent;
@@ -128,7 +128,7 @@ article::after{
     content: '';
     position: absolute;
     bottom: 100%;
-    left: 145px;
+    left: 146px;
     border-width: 20px;
     border-style: solid;
     border-color: transparent;
@@ -143,7 +143,7 @@ article::after{
     content: '';
     position: absolute;
     bottom: 100%;
-    left: 188px;
+    left: 189px;
     border-width: 20px;
     border-style: solid;
     border-color: transparent;
